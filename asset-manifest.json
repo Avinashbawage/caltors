@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/caltors/static/css/main.120fc431.chunk.css",
+    "main.js": "/caltors/static/js/main.acc4af1f.chunk.js",
+    "main.js.map": "/caltors/static/js/main.acc4af1f.chunk.js.map",
+    "runtime-main.js": "/caltors/static/js/runtime-main.3a3c0d1f.js",
+    "runtime-main.js.map": "/caltors/static/js/runtime-main.3a3c0d1f.js.map",
+    "static/js/2.859639a9.chunk.js": "/caltors/static/js/2.859639a9.chunk.js",
+    "static/js/2.859639a9.chunk.js.map": "/caltors/static/js/2.859639a9.chunk.js.map",
+    "index.html": "/caltors/index.html",
+    "static/css/main.120fc431.chunk.css.map": "/caltors/static/css/main.120fc431.chunk.css.map",
+    "static/js/2.859639a9.chunk.js.LICENSE.txt": "/caltors/static/js/2.859639a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a3c0d1f.js",
+    "static/js/2.859639a9.chunk.js",
+    "static/css/main.120fc431.chunk.css",
+    "static/js/main.acc4af1f.chunk.js"
+  ]
+}
